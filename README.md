@@ -7,5 +7,4 @@ Welcome to my learning repository where I document my journey of mastering Java 
 - **Day 2**: Learn to take inputs from user, type conversion, type casting, type promotion expression, Operators, Conditional Statements, Loops.
 - **Day 3**: Basic Pattern Printing, Functions and Function Overloading. Solved different problems related to it.
 
-
 Happy coding! 🌟
