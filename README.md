@@ -8,5 +8,6 @@ Welcome to my learning repository where I document my journey of mastering Java 
 - **Day 2**: Learn to take inputs from user, type conversion, type casting, type promotion expression, Operators, Conditional Statements, Loops.
 - **Day 3**: Basic Pattern Printing, Functions and Function Overloading. Solved different problems related to it.
 - **Day 4**: Solved problems related to Binary to Decimal and Decimal to Binary conversion, generated prime numbers within a specified range, and checked for palindrome numbers.
+- **Day 5**: Solved different advanced pattern problems such as ZeroOne Triangle, Butterfly Pattern, Hollow Rhombus & Rectangle Pattern, Diamond Pattern and Floyd's Triangle Pattern
 
 Happy coding! 🌟
