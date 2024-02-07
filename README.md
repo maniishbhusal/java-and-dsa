@@ -11,5 +11,6 @@ Welcome to my learning repository where I document my journey of mastering Java 
 - **Day 5**: Solved different advanced pattern problems such as ZeroOne Triangle, Butterfly Pattern, Hollow Rhombus & Rectangle Pattern, Diamond Pattern and Floyd's Triangle Pattern
 - **Day 6**: Solved Number Pyramid and Palindromic Pattern With Numbers Question.
 - **Day 7**: Learn about Linear Search, Binary Search, & Reverse an Array.
+- **Day 8**: Learned how to print pairs and subarrays within an array, and find their maximum sum using brute force, Kadane's Algorithm.
 
 Happy coding! 🌟
