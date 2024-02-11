@@ -14,5 +14,6 @@ Welcome to my learning repository where I document my journey of mastering Java 
 - **Day 8**: Learned how to print pairs and subarrays within an array, and find their maximum sum using brute force, `Kadane's Algorithm`.
 - **Day 9**: Solved `Trapping Rain Water` Problem.
 - **Day 10**: Solved `Best Time to Buy and Sell Stock` problem and learned about `Two Pointer Algorithm`.
+- **Day 11**: Solved `Rotate Array` Problem, learned `Bubble Sort`, `Selection Sort`.
 
 Happy coding! 🌟
