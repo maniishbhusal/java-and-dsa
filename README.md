@@ -16,5 +16,6 @@ Welcome to my learning repository where I document my journey of mastering Java 
 - **Day 10**: Solved `Best Time to Buy and Sell Stock` problem and learned about `Two Pointer Algorithm`.
 - **Day 11**: Solved `Rotate Array` Problem, learned `Bubble Sort`, `Selection Sort`.
 - **Day 12**: Learned `Insertion Sort`, `Inbuilt Sort`, `Counting Sort`.
+- **Day 13**: Solved `Spiral Matrix` and `Diagonal Sum` problem.
 
 Happy coding! 🌟
