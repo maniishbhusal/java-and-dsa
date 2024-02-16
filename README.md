@@ -17,5 +17,7 @@ Welcome to my learning repository where I document my journey of mastering Java 
 - **Day 11**: Solved `Rotate Array` Problem, learned `Bubble Sort`, `Selection Sort`.
 - **Day 12**: Learned `Insertion Sort`, `Inbuilt Sort`, `Counting Sort`.
 - **Day 13**: Solved `Spiral Matrix` and `Diagonal Sum` problem.
+- **Day 14**: Solved `Search a 2D Matrix`, `find a shortest path` problem and learned about `String`, `StringBuilder`.
+- **Day 15**: Solved `Palindromic Substrings`, `String Compression`, `Valid Anagram` problem.
 
 Happy coding! 🌟
