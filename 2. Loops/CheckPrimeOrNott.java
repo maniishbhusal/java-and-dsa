@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class CheckPrimeOrNot {
+public class CheckPrimeOrNott {
 
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {

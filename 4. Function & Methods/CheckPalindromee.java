@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class CheckPalindrome {
+public class CheckPalindromee {
 
     public static void palindrome(int num) {
         int rev = 0;
