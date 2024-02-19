@@ -19,5 +19,7 @@ Welcome to my learning repository where I document my journey of mastering Java 
 - **Day 13**: Solved `Spiral Matrix` and `Diagonal Sum` problem.
 - **Day 14**: Solved `Search a 2D Matrix`, `find a shortest path` problem and learned about `String`, `StringBuilder`.
 - **Day 15**: Solved `Palindromic Substrings`, `String Compression`, `Valid Anagram` problem.
+- **Day [16, 17]**: Revised previously done questions, explored OOPS.
+- **Day 18**: Make a simple [Employee Payroll System Project](https://github.com/maniishbhusal/java-and-dsa/blob/main/Employee%20Payroll%20System/Main.java), explored `Recursion`.
 
 Happy coding! 🌟
