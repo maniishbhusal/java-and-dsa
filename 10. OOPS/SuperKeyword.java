@@ -1,5 +1,5 @@
 // to invoke parent class variable
-class Animal {
+class Animall {
     String color = "white";
 
     // parent class method
@@ -8,17 +8,17 @@ class Animal {
     }
 
     // parent class constructor
-    Animal() {
-        System.out.println("Animal is created");
+    Animall() {
+        System.out.println("Animall is created");
     }
 }
 
-class Dog extends Animal {
+class Dog extends Animall {
     String color = "black";
 
     // child class constructor
     Dog() {
-        super(); // calls super class constructor and prints `Animal is created`
+        super(); // calls super class constructor and prints `Animall is created`
         System.out.println("Dog is created"); // Dog is created
     }
 
@@ -38,7 +38,7 @@ class Dog extends Animal {
 
     void printColor() {
         System.out.println(color); // prints color of Dog class
-        System.out.println(super.color); // prints color of Animal class
+        System.out.println(super.color); // prints color of Animall class
     }
 }
 
