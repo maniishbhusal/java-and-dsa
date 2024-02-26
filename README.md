@@ -22,6 +22,7 @@ Welcome to my learning repository where I document my journey of mastering Java 
 - **Day [16, 17]**: Revised previously done questions, explored OOPS.
 - **Day 18**: Make a simple [Employee Payroll System Project](https://github.com/maniishbhusal/java-and-dsa/blob/main/Employee%20Payroll%20System/Main.java), explored `Recursion`.
 - **Day 19**: Solved `Remove Duplicates from string` and `Friends Pairning` problem.
-- **Day 20**: Explored `Time and Space Complexity`, implement STACK using Array, solve `Tiling Problem`, learn about `Merge Sort`.
+- **Day [20 21]**: Explored `Time and Space Complexity`, implement STACK using Array, solve `Tiling Problem`, learn about `Merge Sort`.
+- **Day 22**: Learned about `Quick Sort` Algorithm.
 
 Happy coding! 🌟
