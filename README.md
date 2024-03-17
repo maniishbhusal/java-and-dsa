@@ -24,5 +24,8 @@ Welcome to my learning repository where I document my journey of mastering Java 
 - **Day 19**: Solved `Remove Duplicates from string` and `Friends Pairning` problem.
 - **Day [20 21]**: Explored `Time and Space Complexity`, implement STACK using Array, solve `Tiling Problem`, learn about `Merge Sort`.
 - **Day 22**: Learned about `Quick Sort` Algorithm.
+- **Day 23**: Explored `Backtracking` and solved `Find Substrings` problem, `Check Palindrome using Recursion`.
+- **Day 24**: Solved to print all `Permutation` of a string problem.
+- **Day 25**: Learned to solve `N-Queens`, `Grid Ways` problem.
 
 Happy coding! 🌟
