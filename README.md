@@ -27,5 +27,6 @@ Welcome to my learning repository where I document my journey of mastering Java 
 - **Day 23**: Explored `Backtracking` and solved `Find Substrings` problem, `Check Palindrome using Recursion`.
 - **Day 24**: Solved to print all `Permutation` of a string problem.
 - **Day 25**: Learned to solve `N-Queens`, `Grid Ways` problem.
+- **Day 26**: Solved `Container With Most Water` and `Tower of Hanoi` problem.
 
 Happy coding! 🌟
